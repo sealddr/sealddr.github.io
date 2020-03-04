@@ -24,7 +24,7 @@
 
 ## Qualifications
 
-### OS
+### Operating Systems
 
 | Item           | Duration | Description |
 | :------------- | :------- | :---------- |
@@ -32,11 +32,11 @@
 | Windows Server |          |             |
 | Linux(RedHat)  |          |             |
 
-### Programming language
+### Programming languages
 
-### Flamework
+### Frameworks
 
-### Database
+### Databases
 
 ### Others
 
