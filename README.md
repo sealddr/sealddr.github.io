@@ -4,6 +4,7 @@
 I'm ICT architect living in Osaka, Japan.
 My nickname is `sealddr`, since
 I'm so obese that I look like seals, and I'm eager to playing DDR (The dance simulation game published by KONAMI).
+My Real name is `Masakazu Kadoshita`
 
 ## Interested in
 
@@ -11,7 +12,7 @@ I'm so obese that I look like seals, and I'm eager to playing DDR (The dance sim
 
 ## Work Experience
 ||||
-|:--|:--|:--|
+|:---|:---|:---|
 |2017-present|[Zitte](http://www.zitte.co.jp/company.html)|Technical department|
 |2015-2017|[NIT](https://www.nit2008.com/)|Technical department manager|
 |2014-2014|YMS|Chief Chief researcher|
