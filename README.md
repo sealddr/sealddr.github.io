@@ -40,7 +40,17 @@
 
 ### Others
 
-## Publication
+## Publications
+
+### GitHub
+
+[My GitHub account](https://github.com/sealddr)
+
+### Blog
+
+[SEAL's home](https://sealddr.wordpress.com/)
+
+### Thesis
 
 [Tractability and Intractability of Problems on Unit Disk Graphs Parameterized by Domain Area,
 Hiro Ito, Masakazu Kadoshita, ISORA2010](http://www.aporc.org/LNOR/12/ISORA2010F16.pdf)
@@ -72,5 +82,3 @@ Course of Computer Engineeering,
 Twitter : [@seal_ddr](https://twitter.com/SEAL_DDR)
 
 E-mail : mkadoshita@gmail.com
-
-Web : [SEAL's home](https://sealddr.wordpress.com/)
