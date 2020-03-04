@@ -42,8 +42,8 @@
 
 ## Publication
 
-[Tractability and Intractability of Problems on Unit Disk Graphs Parameterized by Domain Area, ISORA2010,
-Hiro Ito, Masakazu Kadoshita](http://www.aporc.org/LNOR/12/ISORA2010F16.pdf)
+[Tractability and Intractability of Problems on Unit Disk Graphs Parameterized by Domain Area,
+Hiro Ito, Masakazu Kadoshita, ISORA2010](http://www.aporc.org/LNOR/12/ISORA2010F16.pdf)
 
 ## Work Experience
 
