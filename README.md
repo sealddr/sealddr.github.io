@@ -57,6 +57,8 @@ Hiro Ito, Masakazu Kadoshita, ISORA2010](http://www.aporc.org/LNOR/12/ISORA2010F
 
 ## Educatiuon
 
+### Graduated
+
 [Master of Infomatics, Kyoto University, Kyoto, Japan](http://www.i.kyoto-u.ac.jp/en/)
 
 ### major in
