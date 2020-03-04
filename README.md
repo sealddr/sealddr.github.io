@@ -19,7 +19,7 @@ My real name is `Masakazu Kadoshita`
 - [HYPERLEDGER-FABRIC](https://www.hyperledger.org/projects/fabric) - Distributed ledger software
 - [graph theory](http://diestel-graph-theory.com/index.html) - My research theme in the lab of the university
 
-details of teches
+details
 
 ### Hobbies
 
@@ -28,25 +28,39 @@ details of teches
 - [HANSHIN Tigers](https://hanshintigers.jp/) - A baseball team
 - [Nana Mizuki](https://www.mizukinana.jp/) - A voice actress
 
-details of hobbies
+details
 
 ## Qualifications
 
 ### Operating Systems
 
-| Item           | Duration | Description |
-| :------------- | :------- | :---------- |
-| Windows 10     |          |             |
-| Windows Server |          |             |
-| Linux(RedHat)  |          |             |
+| Item                           | Duration | Description                                                                                                      |
+| :----------------------------- | :------- | :--------------------------------------------------------------------------------------------------------------- |
+| Windows 7 / 8.1 / 10           | 12 years | I could develop VB scripts, powershell scripts and windows batches.                                              |
+| Windows Server 2003r2 - 2012r2 | 9 years  | I could set up the domain controller.                                                                            |
+| Linux(RedHat/CentOS)           | 9 years  | I could make installation, build httpd, build cron scripts, set firewall, and deploy applications to the server. |
 
 ### Programming languages
 
+To Be Added
+
 ### Frameworks
+
+To Be Added
 
 ### Databases
 
+To Be Added
+
 ### Others
+
+To Be Added
+
+## Products
+
+### Visualization of algorithms
+
+To Be Added
 
 ## Publications
 
@@ -65,14 +79,13 @@ Hiro Ito, Masakazu Kadoshita, ISORA2010](http://www.aporc.org/LNOR/12/ISORA2010F
 
 ## Work Experience
 
-| Duration                | Company                                              | Department           | Position         |
-| :---------------------- | :--------------------------------------------------- | :------------------- | :--------------- |
-| 2017-present            | [Zitte](http://www.zitte.co.jp/company.html)         | Technical department |                  |
-| 2015-2017               | [NIT](https://www.nit2008.com/)                      | Technical department | manager          |
-| 2014-2014               | YMS                                                  | Technical department | Chief engineer   |
-| 2010-2013               | [NSSOL Corp.](https://www.nssol.nipponsteel.com/en/) | Systems R&D Center   | Chief researcher |
-| 2008-2010               | [NSSOL Corp.](https://www.nssol.nipponsteel.com/en/) | Systems R&D Center   |
-| Deputy chief researcher |
+| Duration     | Company                                              | Department           | Position                |
+| :----------- | :--------------------------------------------------- | :------------------- | :---------------------- |
+| 2017-present | [Zitte](http://www.zitte.co.jp/company.html)         | Technical department | Contract employee       |
+| 2015-2017    | [NIT](https://www.nit2008.com/)                      | Technical department | manager                 |
+| 2014-2014    | YMS                                                  | Technical department | Chief engineer          |
+| 2010-2013    | [NSSOL Corp.](https://www.nssol.nipponsteel.com/en/) | Systems R&D Center   | Chief researcher        |
+| 2008-2010    | [NSSOL Corp.](https://www.nssol.nipponsteel.com/en/) | Systems R&D Center   | Deputy chief researcher |
 
 ## Education
 
