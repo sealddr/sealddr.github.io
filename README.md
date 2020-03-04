@@ -22,7 +22,7 @@ My Real name is `Masakazu Kadoshita`
 ### Hobby
 
 - DanceDanceRevolution(Game contents)
-- [iDOLM@STER serise](https://idolmaster.jp/) - Game contents of [BANDAI NAMCO](https://www.bandainamcoent.co.jp/english/)
+- [iDOLM@STER series](https://idolmaster.jp/) - Game contents of [BANDAI NAMCO](https://www.bandainamcoent.co.jp/english/)
 - [HANSHIN Tigers](https://hanshintigers.jp/) - A baseball team
 
 ## Qualifications
@@ -68,16 +68,16 @@ Hiro Ito, Masakazu Kadoshita, ISORA2010](http://www.aporc.org/LNOR/12/ISORA2010F
 | 2010-2013    | [NSSOL Corp.](https://www.nssol.nipponsteel.com/en/) | Systems R&D Center   | Chief researcher     |
 | 2008-2010    | [NSSOL Corp.](https://www.nssol.nipponsteel.com/en/) | Systems R&D Center   | Sub Chief researcher |
 
-## Educatiuon
+## Education
 
 ### Graduated
 
-[Master of Infomatics, Kyoto University, Kyoto, Japan](http://www.i.kyoto-u.ac.jp/en/)
+[Master of Informatics, Kyoto University, Kyoto, Japan](http://www.i.kyoto-u.ac.jp/en/)
 
 ### major in
 
 Area of Logic Circuits, Algorithms, Discrete structures, Complexity,
-Course of Computer Engineeering,
+Course of Computer Engineering,
 [Department of Communications and Computer Engineering](http://www.cce.i.kyoto-u.ac.jp/course-e.html)
 
 ## Contact
