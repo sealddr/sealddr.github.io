@@ -12,18 +12,22 @@ My real name is `Masakazu Kadoshita`
 
 ## Interested in
 
-### Tech
+### Tech.es
 
 - [AtCoder](https://atcoder.jp/users/SEALDDR) - Programming Competition
 - [elastic search](https://www.elastic.co/elasticsearch) - Search engine software
 - [HYPERLEDGER-FABRIC](https://www.hyperledger.org/projects/fabric) - Distributed ledger software
-- [graph theory](http://diestel-graph-theory.com/index.html) - My research theme in the lab of the university.
+- [graph theory](http://diestel-graph-theory.com/index.html) - My research theme in the lab of the university
 
-### Hobby
+details of tech.es
+
+### Hobbies
 
 - DanceDanceRevolution(Game contents)
 - [iDOLM@STER series](https://idolmaster.jp/) - Game contents of [BANDAI NAMCO](https://www.bandainamcoent.co.jp/english/)
 - [HANSHIN Tigers](https://hanshintigers.jp/) - A baseball team
+
+details of hobbies
 
 ## Qualifications
 
