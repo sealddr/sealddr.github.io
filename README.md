@@ -60,13 +60,14 @@ Hiro Ito, Masakazu Kadoshita, ISORA2010](http://www.aporc.org/LNOR/12/ISORA2010F
 
 ## Work Experience
 
-| Duration     | Company                                              | Department           | Position             |
-| :----------- | :--------------------------------------------------- | :------------------- | :------------------- |
-| 2017-present | [Zitte Corp.](http://www.zitte.co.jp/company.html)   | Technical department |                      |
-| 2015-2017    | [NIT Corp.](https://www.nit2008.com/)                | Technical department | manager              |
-| 2014-2014    | YMS                                                  | Technical department | Chief engineer       |
-| 2010-2013    | [NSSOL Corp.](https://www.nssol.nipponsteel.com/en/) | Systems R&D Center   | Chief researcher     |
-| 2008-2010    | [NSSOL Corp.](https://www.nssol.nipponsteel.com/en/) | Systems R&D Center   | Sub Chief researcher |
+| Duration                | Company                                              | Department           | Position         |
+| :---------------------- | :--------------------------------------------------- | :------------------- | :--------------- |
+| 2017-present            | [Zitte Corp.](http://www.zitte.co.jp/company.html)   | Technical department |                  |
+| 2015-2017               | [NIT Corp.](https://www.nit2008.com/)                | Technical department | manager          |
+| 2014-2014               | YMS                                                  | Technical department | Chief engineer   |
+| 2010-2013               | [NSSOL Corp.](https://www.nssol.nipponsteel.com/en/) | Systems R&D Center   | Chief researcher |
+| 2008-2010               | [NSSOL Corp.](https://www.nssol.nipponsteel.com/en/) | Systems R&D Center   |
+| Deputy chief researcher |
 
 ## Education
 
