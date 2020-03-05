@@ -2,6 +2,7 @@
 
 ## About me
 
+![my image](./img/seal.png)
 I'm ICT architect living in Osaka, Japan.
 
 My nickname is `sealddr`, since
