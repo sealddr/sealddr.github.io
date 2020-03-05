@@ -105,4 +105,4 @@ Course of Computer Engineering,
 
 Twitter : [@seal_ddr](https://twitter.com/SEAL_DDR)
 
-E-mail : [mailto sealddr](mailto:sealddr@galaxy.ocn.ne.jp)
+E-mail : [[Business Use](mailto:mkadoshita@gmail.com)] [[Private Use](mailto:seal0511ddr@gmail.com)]
