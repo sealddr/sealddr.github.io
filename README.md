@@ -83,7 +83,7 @@ Hiro Ito, Masakazu Kadoshita, ISORA2010](http://www.aporc.org/LNOR/12/ISORA2010F
 
 | Duration     | Company                                              | Department           | Position                |
 | :----------- | :--------------------------------------------------- | :------------------- | :---------------------- |
-| 2017-present | [Zitte](http://www.zitte.co.jp/company.html)         | Technical department | Contract employee       |
+| 2017-present | [Zitte](http://www.zitte.co.jp/company.html)         | Technical department | System engineer         |
 | 2015-2017    | [NIT](https://www.nit2008.com/)                      | Technical department | manager                 |
 | 2014-2014    | YMS                                                  | Technical department | Chief engineer          |
 | 2010-2013    | [NSSOL Corp.](https://www.nssol.nipponsteel.com/en/) | Systems R&D Center   | Chief researcher        |
