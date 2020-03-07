@@ -2,7 +2,7 @@
 
 ## About me
 
-![my image](./img/seal.png)
+![my image](./img/seal.png)![my face](./img/face.png)
 
 I'm ICT architect living in Osaka, Japan.
 
