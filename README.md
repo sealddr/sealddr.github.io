@@ -5,6 +5,7 @@
 ![my image](./img/seal.png)![my face](./img/face.png)
 
 I'm ICT architect living in Osaka, Japan.
+I'm good at leaving new knowledge in the frontier.
 
 My nickname is `sealddr`, since
 I'm so obese that I look like seals,
