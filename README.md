@@ -13,7 +13,7 @@ and I'm eager to playing DDR (The dance simulation game published by
 [Konami Digital Entertainment](https://www.konami.com/games/jp/ja/)).
 My real name is `Masakazu Kadoshita`
 
-## Interested in
+## Favorite
 
 ### Teches
 
