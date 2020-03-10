@@ -17,21 +17,21 @@ My real name is `Masakazu Kadoshita`
 
 ### Teches
 
-- [AtCoder](https://atcoder.jp/users/SEALDDR) - Programming Competition
-- [elastic search](https://www.elastic.co/elasticsearch) - Search engine software
-- [HYPERLEDGER-FABRIC](https://www.hyperledger.org/projects/fabric) - Distributed ledger software
-- [graph theory](http://diestel-graph-theory.com/index.html) - My research theme in the lab of the university
-
-details
+| Name                                                              | Description                       | Why favorite?                                                              |
+| :---------------------------------------------------------------- | :-------------------------------- | :------------------------------------------------------------------------- |
+| [AtCoder](https://atcoder.jp/users/SEALDDR)                       | A Programming Competition Service | I like to invent algorithms.                                               |
+| [Elasticsearch](https://www.elastic.co/elasticsearch)             | A Search engine software          | I've hacked apache Lucene, which Elasticsearch is based on                 |
+| [HYPERLEDGER-FABRIC](https://www.hyperledger.org/projects/fabric) | A Distributed ledger software     | I assume that the blockchain system will become popular among consortiums. |
+| [graph theory](http://diestel-graph-theory.com/index.html)        | A mathematical domain.            | My research theme in the lab of the university                             |
 
 ### Hobbies
 
-- DanceDanceRevolution - A series of game contents published by [Konami Digital Entertainment](https://www.konami.com/games/jp/ja/))
-- [iDOLM@STER series](https://idolmaster.jp/) - A series of game contents published by [BANDAI NAMCO](https://www.bandainamcoent.co.jp/english/)
-- [HANSHIN Tigers](https://hanshintigers.jp/) - A baseball team
-- [Nana Mizuki](https://www.mizukinana.jp/) - A voice actress
-
-details
+| Name                                        | Description                                                                                                 | Why favorite?                                                 |
+| :------------------------------------------ | :---------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------ |
+| DanceDanceRevolution                        | A series of game contents published by [Konami Digital Entertainment](https://www.konami.com/games/jp/ja/)) | A quarter of my life are consisted by this.                   |
+| [iDOLM@STER series](https://idolmaster.jp/) | A series of game contents published by [BANDAI NAMCO](https://www.bandainamcoent.co.jp/english/)            | In fact, it is my main work to be the producer of idols.      |
+| [HANSHIN Tigers](https://hanshintigers.jp/) | A baseball team in NPB                                                                                      | I've been familiar with this them from the moment I remember. |
+| [Nana Mizuki](https://www.mizukinana.jp/)   | A voice actress                                                                                             | She gives us much courage and bravery to survive.             |
 
 ## Qualifications
 
