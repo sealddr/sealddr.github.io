@@ -29,7 +29,7 @@ My real name is `Masakazu Kadoshita`
 | Name                                        | Description                                                                                                 | Why favorite?                                                 |
 | :------------------------------------------ | :---------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------ |
 | DanceDanceRevolution                        | A series of game contents published by [Konami Digital Entertainment](https://www.konami.com/games/jp/ja/)) | A quarter of my life are consisted by this.                   |
-| [iDOLM@STER series](https://idolmaster.jp/) | A series of game contents published by [BANDAI NAMCO](https://www.bandainamcoent.co.jp/english/)            | In fact, it is my main work to run the producer of idols.      |
+| [iDOLM@STER series](https://idolmaster.jp/) | A series of game contents published by [BANDAI NAMCO](https://www.bandainamcoent.co.jp/english/)            | In fact, it is my main work to run the produce of idols.      |
 | [HANSHIN Tigers](https://hanshintigers.jp/) | A baseball team in NPB                                                                                      | I've been familiar with this them from the moment I remember. |
 | [Nana Mizuki](https://www.mizukinana.jp/)   | A voice actress                                                                                             | She gives us much courage and bravery to survive.             |
 
