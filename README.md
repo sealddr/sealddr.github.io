@@ -64,7 +64,7 @@ To Be Added
 
 To Be Added
 
-## Devops
+## DevOps
 
 ToBe Added
 
