@@ -45,16 +45,16 @@ My real name is `Masakazu Kadoshita`
 
 ### Programming languages
 
-| Name           | Duration | Description                                                                                 |
-| :------------- | :------- | :------------------------------------------------------------------------------------------ |
-| C++            | 1 years  | Now I'm participating in the programming contests in C++                                    |
-| JavaScript     | 2 months | Now I'm developing my portfolio products in HTML, CSS and this                              |
-| Go             | 1 months | I've just finished go tutorials                                                             |
-| PHP            | 2 months | I used this language with Cake PHP framework to develop web application for high school     |
-| Java 6 / 7 / 8 | 9 years  | The most familiar language I have ever written                                              |
-| C              | 6 years  | The first language I had learned                                                            |
-| Scala          | 3 months | I defined my original DSL(Domain Specified Language) and developed the interpreter in Scala |
-| Python         | 6 months | I developed system operation scripts in Python (version 2.x)                                |
+| Name       | Duration | Description                                                                                                             |
+| :--------- | :------- | :---------------------------------------------------------------------------------------------------------------------- |
+| C++        | 1 years  | Now I'm participating in the programming contests in C++                                                                |
+| JavaScript | 2 months | Now I'm developing my portfolio products in HTML, CSS and this                                                          |
+| Go         | 1 months | I've just finished go tutorials                                                                                         |
+| PHP        | 2 months | I used this language with Cake PHP framework to develop web application for high school                                 |
+| Java       | 9 years  | The most familiar language I have ever written                                                                          |
+| C          | 6 years  | The first language I had learned                                                                                        |
+| Scala      | 3 months | I defined my original DSL(Domain Specified Language) and developed the interpreter in Scala, with functional programing |
+| Python     | 6 months | I developed system operation scripts in Python (version 2.x)                                                            |
 
 ### Frameworks
 
