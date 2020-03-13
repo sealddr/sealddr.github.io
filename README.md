@@ -52,7 +52,7 @@ My real name is `Masakazu Kadoshita`
 | Go         | 1 months | I've just finished go tutorials                                                                                         |
 | PHP        | 2 months | I used this language with Cake PHP framework to develop web application for high school                                 |
 | Java       | 9 years  | The most familiar language I have ever written                                                                          |
-| C          | 6 years  | The first language I had learned                                                                                        |
+| C          | 6 years  | The first language I had learned                                                                                     in the university|
 | Scala      | 3 months | I defined my original DSL(Domain Specified Language) and developed the interpreter in Scala, with functional programing |
 | Python     | 6 months | I developed system operation scripts in Python (version 2.x)                                                            |
 |BASIC|6years|I used to read the textbook when I was 10 years old|
