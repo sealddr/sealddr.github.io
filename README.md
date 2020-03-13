@@ -77,7 +77,9 @@ To Be Added
 
 ### Visualization of algorithms
 
-To Be Added
+### Twitter Search Based on Page Rank powered by Elasticsearch
+
+### Virtual energy supply chains powered by Hyperledger-Fabric
 
 ## Publications
 
