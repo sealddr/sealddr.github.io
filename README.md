@@ -55,6 +55,7 @@ My real name is `Masakazu Kadoshita`
 | C          | 6 years  | The first language I had learned                                                                                        |
 | Scala      | 3 months | I defined my original DSL(Domain Specified Language) and developed the interpreter in Scala, with functional programing |
 | Python     | 6 months | I developed system operation scripts in Python (version 2.x)                                                            |
+|BASIC|6years|I used to read the textbook when I was 10 years old|
 
 ### Frameworks
 
