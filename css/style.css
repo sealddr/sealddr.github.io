@@ -1,3 +1,73 @@
 html {
   font-family: sans-serif;
 }
+
+body {
+  background-image: url(../img/bg.gif);
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  position: relative;
+  margin-bottom: 16px;
+}
+
+header nav {
+  max-width: 1232px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+header nav a {
+  text-decoration: inherit;
+}
+
+.site-title {
+  margin: 0;
+  padding-left: 16px;
+  color: #b3c7ec;
+  font-size: 3.2rem;
+  font-weight: normal;
+  font-family: "Ubuntu Condensed", sans-serif;
+  letter-spacing: 0.068em;
+}
+
+.nav-box {
+  display: flex;
+  font-size: 1rem;
+}
+
+.nav-box a {
+  display: block;
+  padding: 1em 2em;
+  color: inherit;
+  background: #6bc5ea;
+  transition: background 0.6s cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+.nav-box li:last-child a {
+  color: #fff;
+  background: #209bde;
+}
+
+.nav-box a:hover {
+  background: #dde4ee;
+  transition-duration: 0.1s;
+}
+
+.nav-box li:last-child a:hover {
+  background: #111e91;
+}
+
+#contents {
+  overflow: hidden;
+  max-width: 1232px;
+  margin: 0 auto;
+  padding: 0 16px;
+  font-feature-settings: "halt";
+  hanging-punctuation: allow-end;
+}
