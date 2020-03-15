@@ -72,20 +72,3 @@ header nav a {
   font-feature-settings: "halt";
   hanging-punctuation: allow-end;
 }
-
-#clock {
-  display: flex;
-  flex-direction: column;
-  position: fixed;
-  top: 5px;
-  right: 5px;
-  left: 1280;
-  width: 200px;
-  justify-content: center;
-  padding: 10px;
-  border: outset #999999;
-  border-radius: 5px;
-  font-size: 16px;
-  color: #444444;
-  background-color: #aaaaaa;
-}
