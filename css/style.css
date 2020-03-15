@@ -22,6 +22,7 @@ header nav {
   margin: 0 auto;
   padding: 0 16px;
 }
+
 header nav a {
   text-decoration: inherit;
 }
@@ -70,4 +71,21 @@ header nav a {
   padding: 0 16px;
   font-feature-settings: "halt";
   hanging-punctuation: allow-end;
+}
+
+#clock {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 5px;
+  right: 5px;
+  left: 1280;
+  width: 200px;
+  justify-content: center;
+  padding: 10px;
+  border: outset #999999;
+  border-radius: 5px;
+  font-size: 16px;
+  color: #444444;
+  background-color: #aaaaaa;
 }
