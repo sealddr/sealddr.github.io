@@ -38,9 +38,6 @@ header nav a {
   .site-title {
     padding-left: 8px;
     font-size: 1.6rem;
-    font-weight: normal;
-    font-family: "Ubuntu Condensed", sans-serif;
-    letter-spacing: 0.068em;
   }
 }
 
@@ -54,7 +51,6 @@ header nav a {
   .nav-box {
     flex-direction: column;
     font-size: 0.6rem;
-    margin-right: 10px;
   }
 }
 
@@ -68,7 +64,9 @@ header nav a {
 
 @media screen and (max-width: 480px) {
   .nav-box a {
-    padding: 0.5em 1em;
+    text-align: center;
+    border: 1px solid #eeffff;
+    border-radius: 4px;
   }
 }
 
