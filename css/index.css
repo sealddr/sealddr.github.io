@@ -14,10 +14,32 @@ body {
 
 #contents {
   overflow: hidden;
-  max-width: 1232px;
+  max-width: 1200px;
   margin: 0 auto;
   padding: 0 16px;
   font-feature-settings: "halt";
   hanging-punctuation: allow-end;
   background-image: url(../img/bg.gif);
+}
+
+@media screen and (max-width: 480px) {
+  #contents {
+    width: auto;
+  }
+
+  #welcome_heading {
+    font-size: 20px;
+  }
+  #contents p {
+    font-size: 12px;
+  }
+  #about_me_heading {
+    font-size: 16px;
+  }
+  #seal_img {
+    width: 40%;
+  }
+  #face_img {
+    width: 40%;
+  }
 }
