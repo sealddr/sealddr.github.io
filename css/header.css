@@ -1,19 +1,7 @@
-html {
-  font-family: sans-serif;
-}
-
-body {
-  background-image: url(../img/bg.gif);
-}
-
-ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
 header {
   position: relative;
+  width: 1200px;
+  left: 100px;
   margin-bottom: 16px;
 }
 
@@ -51,7 +39,7 @@ header nav a {
   transition: background 0.6s cubic-bezier(0.19, 1, 0.22, 1);
 }
 
-.nav-box li:last-child a {
+.nav-box .nav-current a {
   color: #fff;
   background: #209bde;
 }
@@ -61,15 +49,10 @@ header nav a {
   transition-duration: 0.1s;
 }
 
-.nav-box li:last-child a:hover {
-  background: #111e91;
+.nav-box .nav-no-link a:hover {
+  background: #6bc5ea;
 }
 
-#contents {
-  overflow: hidden;
-  max-width: 1232px;
-  margin: 0 auto;
-  padding: 0 16px;
-  font-feature-settings: "halt";
-  hanging-punctuation: allow-end;
+.nav-box .nav-current a:hover {
+  background: #209bde;
 }
