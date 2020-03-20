@@ -12,6 +12,12 @@ body {
   background-color: #eeffff;
 }
 
+@media screen and (max-width: 480px) {
+  body {
+    margin-top: 64px;
+  }
+}
+
 #contents {
   overflow: hidden;
   max-width: 1232px;
@@ -28,7 +34,7 @@ body {
   position: fixed;
   top: 5px;
   right: 5px;
-  left: 1280;
+  left: auto;
   width: 200px;
   justify-content: center;
   padding: 10px;
@@ -37,4 +43,18 @@ body {
   font-size: 16px;
   color: #444444;
   background-color: #aaaaaa;
+}
+
+@media screen and (max-width: 480px) {
+  #clock {
+    position: fixed;
+    top: 2px;
+    right: 2px;
+    left: auto;
+    width: 150px;
+    justify-content: center;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 12px;
+  }
 }
