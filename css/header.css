@@ -1,8 +1,7 @@
 header {
-  position: relative;
-  width: 1200px;
-  left: 40px;
-  margin-bottom: 16px;
+  max-width: 1024px;
+  width: auto;
+  margin: 0 auto 16px 40px;
 }
 
 @media (max-width: 480px) {
@@ -15,9 +14,8 @@ header {
 }
 
 header nav {
-  max-width: 1200px;
+  max-width: 1024px;
   margin: 0 auto;
-  padding: 0 16px;
 }
 
 header nav a {
@@ -55,7 +53,9 @@ header nav a {
 
 .nav-box a {
   display: block;
-  padding: 1em 2em;
+  width: 100px;
+  text-align: center;
+  padding: 1em 1em;
   color: inherit;
   background: #6bc5ea;
   transition: background 0.6s cubic-bezier(0.19, 1, 0.22, 1);
