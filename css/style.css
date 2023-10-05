@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #eeffff;
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+}
+  
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: black;
+}
+  
+h1 {
+    font-size: 4rem;
+    margin-bottom: 2rem;
+}
+  
+p {
+    font-size: 2rem;
+}
+  
+.fade-in {
+    opacity: 1;
+}
