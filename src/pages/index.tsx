@@ -1,4 +1,5 @@
 import RootLayout from '../components/layout';
+import '../styles/globals.css';
 
 export default function Home() {
   return (
