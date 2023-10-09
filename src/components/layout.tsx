@@ -36,7 +36,7 @@ export default function RootLayout({ children }: Props) {
                 <Offcanvas.Title>sealddr&apos;s Portfolio Site</Offcanvas.Title>
               </Offcanvas.Header>
               <Offcanvas.Body>
-                <Nav className="justify-content-end flex-grow-1 pe-3">
+                <Nav className="justify-content-begin flex-grow-1 pe-3">
                   <Nav.Link href="/" active>About</Nav.Link>
                   <Nav.Link href="#">Resume</Nav.Link>
                   <Nav.Link href="#">Products</Nav.Link>
