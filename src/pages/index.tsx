@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <RootLayout>
       <Navbar bg="light" expand="lg">
-        <Navbar.Brand href="#home">sealddr`&apos`s Portfolio Site</Navbar.Brand>
+        <Navbar.Brand href="#home">sealddr&apos;s Portfolio Site</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="mr-auto">
