@@ -1,14 +1,6 @@
 .nav {
   background-color: #afe2fa;
-}
-
-.navbar-nav .nav-link {
-  color: #000;
-}
-
-.container {
-  background-image: url('../../public/images/bg.png');
-  background-repeat: repeat;
+  padding-left: 20px;
 }
 
 .footer {
