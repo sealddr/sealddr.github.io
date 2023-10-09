@@ -1,24 +1,33 @@
 import RootLayout from '../components/layout';
 import '../styles/index.css'
-import { Nav, Navbar, Container, Card } from 'react-bootstrap';
+import { Nav, Navbar, Container, Card, Offcanvas } from 'react-bootstrap';
 
 export default function Home() {
   return (
     <RootLayout>
       <header className='header'>
-        <Navbar bg="primary" data-bs-theme="dark">
-          <Container>
-          <Navbar.Brand href="#home">sealddr&apos;s Portfolio Site</Navbar.Brand>
-          <Navbar.Toggle aria-controls="basic-navbar-nav" />
-          <Navbar.Collapse id="basic-navbar-nav">
-            <Nav className="mr-auto">
-              <Nav.Link href="/" className='active'>About</Nav.Link>
-              <Nav.Link href="resume">Resume</Nav.Link>
-              <Nav.Link href="products">Products</Nav.Link>
-              <Nav.Link href="blogs">Blogs</Nav.Link>
-              <Nav.Link href="link">Link</Nav.Link>
-            </Nav>
-          </Navbar.Collapse>
+        <Navbar bg="primary" data-bs-theme="dark" key='sm' expand='sm' className="mb-3">
+          <Container fluid>
+            <Navbar.Brand href="#home">sealddr&apos;s Portfolio Site</Navbar.Brand>
+            <Navbar.Toggle aria-controls='offcanvasNavbar-expand-${sm}' />
+            <Navbar.Offcanvas 
+              id='offcanvasNavbar-expand-${sm}'
+              aria-labelledby='offcanvasNavbar-expand-${sm}'
+              placement='end'
+            >
+              <Offcanvas.Header closeButton>
+                <Offcanvas.Title>sealddr&apos;s Portfolio Site</Offcanvas.Title>
+              </Offcanvas.Header>
+              <Offcanvas.Body>
+                <Nav className="justify-content-end flex-grow-1 pe-3">
+                  <Nav.Link href="/" className='active'>About</Nav.Link>
+                  <Nav.Link href="resume">Resume</Nav.Link>
+                  <Nav.Link href="products">Products</Nav.Link>
+                  <Nav.Link href="blogs">Blogs</Nav.Link>
+                  <Nav.Link href="link">Link</Nav.Link>
+                </Nav>
+              </Offcanvas.Body>
+            </Navbar.Offcanvas>
           </Container>
         </Navbar>
       </header>
@@ -28,7 +37,6 @@ export default function Home() {
           <Card.Img variant="top" src="/images/sealddr.png" />
           <Card.Body>
             <Card.Title>sealddr</Card.Title>
-            <Card.Text>
                 <table>
                   <tr>
                     <td>address:</td>
@@ -55,7 +63,6 @@ export default function Home() {
                     <td>@sealddr</td>
                   </tr>
                 </table>
-            </Card.Text>
           </Card.Body>
         </Card>
       </Container>
